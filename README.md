@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center" style="font-family: 'Fira Code', monospace;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=999&size=21&duration=3980&pause=989&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Wichuraa!;Just+your+typical+developer+from+Poland..;Yes%2C+I+am+a+crazy+person." alt="Typing SVG" style="border: 2px solid #00bcd4; border-radius: 10px;" />
+  </a>
+</h1>
 
-<!--
-**Wichuraa/Wichuraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wichuraa&label=Profile%20views&color=00bcd4&style=for-the-badge" alt="Profile views" />
+  <a href="https://discord.gg/TKyuZhy7QB" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wichuraa&show_icons=true&theme=react&title_color=00bcd4&icon_color=00bcd4&bg_color=0d1117&text_color=c9d1d9&border_color=0d1117" alt="GitHub Stats" style="border: 2px solid #00bcd4; border-radius: 10px;" />
+</div>
